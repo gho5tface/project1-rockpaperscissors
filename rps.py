@@ -37,4 +37,4 @@ while True:
 
 print("Great You won", user_wins, "times.")
 print("The computer won", computer_wins, "times.")
-print("Bye :)")
+print("Bye")
